@@ -11,12 +11,15 @@ Requirements
 •	Python 3.8+
 
 Create virtual environment
+
 •	python -m venv dotenv
 
 Activate the environment
+
 •	dotenv\\Scripts\\activate
 
 Install libraries
+
 •	pip install mcp mcp[cli]
 
 **Set OPEN API KEY :** set OPENAI_API_KEY=replace with your key
