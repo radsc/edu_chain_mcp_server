@@ -1,9 +1,9 @@
 {
   "mcpServers": {
     "educhain": {
-      "command": <<python exe location>>,
+      "command": python exe location,
       "args": [
-        <<>edu_chain.py location>
+        edu_chain.py location
       ]
     }
   }
