@@ -1,9 +1,9 @@
 {
   "mcpServers": {
     "educhain": {
-      "command": "C:\\DDrive\\MyWorkspace\\Data Science\\IISC-DL\\EduChain\\mcp\\dotenv\\Scripts\\python",
+      "command": <<python exe location>>,
       "args": [
-        "C:\\DDrive\\MyWorkspace\\Data Science\\IISC-DL\\EduChain\\mcp\\edu_chain.py"
+        <<>edu_chain.py location>
       ]
     }
   }
