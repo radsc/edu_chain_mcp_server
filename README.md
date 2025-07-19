@@ -22,11 +22,13 @@ Install libraries
 
 •	pip install mcp mcp[cli]
 
-**Set OPEN API KEY :** set OPENAI_API_KEY=replace with your key
+Set OPEN API KEY :
 
-**Running the Server** (Command w.r.t Anaconda prompt)
+set OPENAI_API_KEY=replace with your key
 
-mcp dev edu_chain.py
+Running the Server (Command w.r.t Anaconda prompt)
+
+•	mcp dev edu_chain.py
 
 
 
