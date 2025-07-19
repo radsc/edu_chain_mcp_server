@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "educhain": {
+      "command": "C:\\DDrive\\MyWorkspace\\Data Science\\IISC-DL\\EduChain\\mcp\\dotenv\\Scripts\\python",
+      "args": [
+        "C:\\DDrive\\MyWorkspace\\Data Science\\IISC-DL\\EduChain\\mcp\\edu_chain.py"
+      ]
+    }
+  }
+}
